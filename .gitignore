@@ -1,6 +1,2 @@
 /target
-main.exe
-main.pdb
-Cargo.lock
-Cargo.toml
 .vscode
